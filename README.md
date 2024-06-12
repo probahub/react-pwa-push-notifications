@@ -4,6 +4,7 @@
 ## Overview
 
 This package provides a custom React hook for facilitating push subscriptions in your application. It ensures proper handling of browser APIs and returns easy-to-handle errors in case of issues.
+https://habr.com/ru/articles/767632/
 
 ![demo](./img/demo.gif)
 ## Installation
